@@ -23,10 +23,6 @@
 - 📚 Amante da **aprendizagem contínua** e **cursos online**
 - 🤝 Procuro colaborar em **projetos de código aberto** relacionados a desenvolvimento de apps e web
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding" width="200"/>
-</div>
-
 ---
 
 ### 🚀 Linguagens que estudo:
